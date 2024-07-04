@@ -1,0 +1,28 @@
+h1{
+    font-size:100px;
+    color: brown;
+}
+
+.bacon
+{
+background-color: rgb(8, 240, 163);
+width: 30%;
+}
+
+.broccoli
+{
+    background-color: rgb(240, 62, 8);
+    width: 20%;
+}
+#heading
+{
+    color: blue;
+}
+.circular
+{
+border-radius: 100%;
+}
+img:hover
+{
+   background-color: rgb(240, 8, 182);
+}
